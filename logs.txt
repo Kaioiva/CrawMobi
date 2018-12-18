@@ -1,0 +1,78 @@
+Smartphones Description - Getting Database
+
+Execution logs:
+
+Houve divergência de valores no aparelho Apple iPhone 7. Memória de Armazenamento no Kimovil: 32. Memória de Armazenamento no phoneArena: 256.
+O valor para Memória de Armazenamento escolhido foi do site PhoneArena por ser o menor entre os dois.
+
+Houve divergência de valores no aparelho Apple iPhone 7. LTE(4G) no Kimovil: SIM. LTE(4G) no phoneArena: NAO.
+O valor para LTE(4G) escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Apple iPhone 7. Dimensões no Kimovil: 67.1x138.3x7.1. Dimensões no phoneArena: .
+O valor para as Dimensões escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+O valor para a Versão do SO escolhido foi do site PhoneArena por possuir essa informação mais confiável.
+
+Houve divergência de valores no aparelho Apple iPhone 7. Processamento no Kimovil: 2.4. Processamento no phoneArena: 2340.
+O valor para o Processamento escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Apple iPhone 7. Data de lançamento no Kimovil: 09/2016. Data de lançamento no phoneArena: 07 Sep 2016.
+O valor para a data de lançamento escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+O preço do aparelho SAMSUNG GALAXY YOUNG 2 não foi encontrado no site: https://www.zoom.com.br/celular
+Houve divergência de valores no aparelho Samsung Galaxy Young 2. Memória Ram no Kimovil: 0.512. Memória Ram no phoneArena: .
+O valor para Memória Ram escolhido foi do site PhoneArena por ser o menor entre os dois.
+
+Houve divergência de valores no aparelho Samsung Galaxy Young 2. Memória de Armazenamento no Kimovil: 4. Memória de Armazenamento no phoneArena: up.
+O valor para Memória de Armazenamento escolhido foi do site Kimovil por ser o menor entre os dois.
+
+Houve divergência de valores no aparelho Samsung Galaxy Young 2. NFC no Kimovil: NAO. NFC no phoneArena: SIM.
+O valor para NFC escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Samsung Galaxy Young 2. Dual Chip no Kimovil: SIM. Dual Chip no phoneArena: .
+O valor para Dual Chip escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Samsung Galaxy Young 2. Resolução da Câmera no Kimovil: 3.2. Resolução da Câmera no phoneArena: 3.
+O valor para a Resolução da Câmera escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Samsung Galaxy Young 2. Dimensões no Kimovil: 59.9x109.8x11.8. Dimensões no phoneArena: .
+O valor para as Dimensões escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+O valor para a Versão do SO escolhido foi do site PhoneArena por possuir essa informação mais confiável.
+
+Houve divergência de valores no aparelho Samsung Galaxy Young 2. Processamento no Kimovil: 0.8. Processamento no phoneArena: .
+O valor para o Processamento escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Samsung Galaxy Young 2. Data de lançamento no Kimovil: 07/2014. Data de lançamento no phoneArena: 23 Jun 2014.
+O valor para a data de lançamento escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Pocophone F1. LTE(4G) no Kimovil: SIM. LTE(4G) no phoneArena: NAO.
+O valor para LTE(4G) escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Pocophone F1. Resolução da Câmera no Kimovil: 12.2. Resolução da Câmera no phoneArena: Dual.
+O valor para a Resolução da Câmera escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Pocophone F1. Peso no Kimovil: 182. Peso no phoneArena: 180.
+O valor para peso escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Pocophone F1. Dimensões no Kimovil: 75.2x155.5x8.8. Dimensões no phoneArena: .
+O valor para as Dimensões escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Pocophone F1. Tela no Kimovil: 6.18. Tela no phoneArena: 6.2.
+O valor para o tamanho do Tela escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+O valor para a Versão do SO escolhido foi do site PhoneArena por possuir essa informação mais confiável.
+
+Houve divergência de valores no aparelho Pocophone F1. Processamento no Kimovil: 2.8. Processamento no phoneArena: 2800.
+O valor para o Processamento escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+Houve divergência de valores no aparelho Pocophone F1. Data de lançamento no Kimovil: 08/2018. Data de lançamento no phoneArena: .
+O valor para a data de lançamento escolhido foi do site Kimovil por possuir uma base de dados mais confiável.
+
+O Aparelho COISA NENHUMA não foi encontrado, com esse nome, no site https://www.kimovil.com/pt/.
+
+O preço do aparelho COISA NENHUMA não foi encontrado no site: https://www.zoom.com.br/celular
+O Aparelho COISA NENHUMA não foi encontrado, com esse nome, no site https://www.phonearena.com/.
+
+A maioria dos dados escolhidos foram do site Kimovil por possuir uma base de dados mais extensa.
+
